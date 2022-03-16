@@ -14,6 +14,7 @@ function sorteio() {
       cont++;
     }
   }
+  
 
   document.getElementById("sorteados").innerHTML = numSort;
   contAcertos();
